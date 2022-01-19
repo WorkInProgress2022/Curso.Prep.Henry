@@ -1,0 +1,29 @@
+html
+{
+ background-color:yellow ;  
+}
+
+h1
+{
+ color:blue;
+}
+
+img
+{
+ width:400px;
+}
+
+#thirdid
+{
+ height:600px;
+ width:500px;
+ background-color: black;
+ padding:50px;
+ border:5px dashed double red;
+}
+
+#spanid
+{
+ font-size:18px;
+ margin:50px;    
+}
